@@ -250,7 +250,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/popask.ico"),
+      image: require("./assets/images/popask.png"),
       projectName: "PopAsk",
       projectDesc: "A cross-platform desktop utility using Wails and Go, enabling users to execute AI prompts on highlighted text via globally registered keyboard shortcuts. Features high-performance backend logic in Go to manage system-level event listeners and asynchronous AI API integrations.",
       footerLink: [
