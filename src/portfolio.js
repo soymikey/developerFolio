@@ -25,7 +25,7 @@ const greeting = {
   subTitle: emoji(
     "A passionate Full Stack Software Engineer 🚀 with experience building scalable web and mobile applications using TypeScript, React, Next.js, Node.js, and modern development tools."
   ),
-  resumeLink: "Maoqiang_Zheng_Resume.pdf", // Set to empty to hide the button
+  resumeLink: "Frontend_Engineering_Resume.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
