@@ -20,8 +20,8 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Maoqiang Zheng",
-  title: "Hi all, I'm Maoqiang",
+  username: "Michael Zheng",
+  title: "Hi all, I'm Michael",
   subTitle: emoji(
     "A passionate Full Stack Software Engineer 🚀 with experience building scalable web and mobile applications using TypeScript, React, Next.js, Node.js, and modern development tools."
   ),
